@@ -21,23 +21,23 @@
 
 
 <div style="align: center">
-<img src="https://github.com/Lovely-XPP/SYSU-PRE/main/demo/1.png">
+<img src="https://github.com/Lovely-XPP/SYSU-PRE/blob/main/demo/1.png">
 </div>
 
 <div style="align: center">
-<img src="https://github.com/Lovely-XPP/SYSU-PRE/main/demo/2.png">
+<img src="https://github.com/Lovely-XPP/SYSU-PRE/blob/main/demo/2.png">
 </div>
 
 <div style="align: center">
-<img src="https://github.com/Lovely-XPP/SYSU-PRE/main/demo/3.png">
+<img src="https://github.com/Lovely-XPP/SYSU-PRE/blob/main/demo/3.png">
 </div>
 
 <div style="align: center">
-<img src="https://github.com/Lovely-XPP/SYSU-PRE/main/demo/4.png">
+<img src="https://github.com/Lovely-XPP/SYSU-PRE/blob/main/demo/4.png">
 </div>
 
 <div style="align: center">
-<img src="https://github.com/Lovely-XPP/SYSU-PRE/main/demo/5.png">
+<img src="https://github.com/Lovely-XPP/SYSU-PRE/blob/main/demo/5.png">
 </div>
 
 
